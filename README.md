@@ -1,2 +1,2 @@
 # Projects
-Student's Projects 
+Projects 
