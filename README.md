@@ -1,2 +1,2 @@
-# Yandex-Projects
+# Projects
 Student's Projects 
